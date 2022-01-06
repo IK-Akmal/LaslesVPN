@@ -1,2 +1,2 @@
 # LaslesVPN #
-<lasles-vpn-neon.vercel.app>
+<https:\\lasles-vpn-neon.vercel.app>
